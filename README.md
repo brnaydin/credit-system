@@ -17,6 +17,7 @@ OR
 H2 database can be used. Configuration must be done  
   
 After all, data.sql must be executed in order to create tables and load demo data.   
+  
 ----------------------------------------------------------------------------------------------------------------  
   
 Swagger is implemented and is accessible with following url;  
