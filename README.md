@@ -1,7 +1,10 @@
 
 Credit System Java Springboot backend project  
 
-Application requirements;  
+Project Details;  
+
+Business flow can be tested by creating customer.    
+Scoring is randomly assigned to a customer(between 100 and 1500).    
   
 ----------------------------------------------------------------------------------------------------------------  
 DB Server:   
@@ -14,7 +17,7 @@ spring.datasource.password=123456
   
 OR   
   
-H2 database can be used. Configuration must be done  
+H2 database can be used. Relevant configuration must be done.    
   
 After all, data.sql must be executed in order to create tables and load demo data.   
   
